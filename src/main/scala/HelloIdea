@@ -2,5 +2,6 @@
 object HelloIdea{
    def main (args: Array[String]) {
      println("Hello Idea !!")
+     println("Hello Venkata !!")
   }
 }
